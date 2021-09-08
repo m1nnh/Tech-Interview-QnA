@@ -2,7 +2,7 @@
 
 전공 지식 & 기술 면접 질문과 답
 
-### [Algorithm]()
+### [Algorithm](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Algorithm)
 
 알고리즘 QnA 및 프로그래머스 문제 풀이
 
@@ -38,7 +38,7 @@
 
 자바 관련 QnA
 
-### [파이썬]()
+### [파이썬](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Python)
 
-파이썬 관련 QnA
+파이썬 관련 주요 문법 정리
 
