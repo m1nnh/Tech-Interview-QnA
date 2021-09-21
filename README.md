@@ -18,7 +18,7 @@
 
 네트워크 QnA
 
-### [Operating System]()
+### [Operating System](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Operating%20System)
 
 운영체제 QnA
 
