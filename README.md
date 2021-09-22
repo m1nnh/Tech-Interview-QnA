@@ -6,15 +6,27 @@
 
 알고리즘 QnA 및 프로그래머스 문제 풀이
 
-### [Data Structure]()
+### [Data Structure](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Data%20Structure)
 
 자료구조 QnA
 
-### [Database]()
+### [Database](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Database)
 
 데이터베이스 QnA
 
-### [Network]()
+### [Design Pattern](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Design%20Pattern)
+
+디자인 패턴 QnA
+
+### [Java](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Java)
+
+자바 관련 QnA
+
+### [Look For Clothes](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Look%20for%20Clothes)
+
+개인 프로젝트 QnA
+
+### [Network](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Network)
 
 네트워크 QnA
 
@@ -22,23 +34,21 @@
 
 운영체제 QnA
 
-### [Software Engineering]()
-
-소프트웨어 개발 방법론 QnA
-
-### [Design Pattern]()
-
-디자인 패턴 QnA
-
-### [프로젝트]()
-
-프로젝트 관련 QnA
-
-### [자바]()
-
-자바 관련 QnA
-
-### [파이썬](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Python)
+### [Python](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Python)
 
 파이썬 관련 주요 문법 정리
+
+### [Secure](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Secure)
+
+보안 QnA
+
+### [Software Engineering](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Software%20Engineering)
+
+소프트웨어 공학 QnA
+
+### [Zigzag](https://github.com/m1nnh/Tech-Interview-QnA/tree/master/Zigzag)
+
+개인 프로젝트 QnA
+
+
 
