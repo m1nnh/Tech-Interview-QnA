@@ -5,13 +5,14 @@
 ### ✅ Role
 
 - 파일은 README.md로 작성
-- commit message 
+- commit message
+- v는 version 
 
 ```
-Docs: 문서와 관련된 모든 것
-Rename: 단순한 파일명 변경
-Update: 파일 내용 변경
-Remove: 파일 삭제
+docs: 문서와 관련된 모든 것
+rename: 단순한 파일명 변경
+update: 파일 내용 변경
+remove: 파일 삭제
 ```
 
 ## 📂 Category
