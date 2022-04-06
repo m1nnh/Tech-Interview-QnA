@@ -1,8 +1,8 @@
-## Problem Solved
+## problem solved
 
-[백준](https://github.com/m1nnh/Problem-Solving/tree/master/BOJ)
-[프로그래머스](https://github.com/m1nnh/Problem-Solving/tree/master/Programmers)
-[알고리즘 v2(2021년 12월부터)](https://maprk.notion.site/178d5a362613437d82a5d8476bc62b7b)
+- [백준](https://github.com/m1nnh/Problem-Solving/tree/master/BOJ)
+- [프로그래머스](https://github.com/m1nnh/Problem-Solving/tree/master/Programmers)
+- [알고리즘 v2(2021년 12월부터)](https://maprk.notion.site/178d5a362613437d82a5d8476bc62b7b)
 
 ## algorithm QnA 
 
