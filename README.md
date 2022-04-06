@@ -21,7 +21,7 @@ remove: 파일 삭제
 
 ### [algorithm](https://github.com/m1nnh/tech-interview-QnA/tree/master/algorithm)
 
-알고리즘 QnA 및 프로그래머스 문제 풀이
+알고리즘 QnA 및 문제 풀이
 
 ### [data-structure](https://github.com/m1nnh/tech-interview-QnA/tree/master/data-structure)
 
