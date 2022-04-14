@@ -1,10 +1,10 @@
-## problem solved
+## Problem solved
 
 - [백준](https://github.com/m1nnh/Problem-Solving/tree/master/BOJ)
 - [프로그래머스](https://github.com/m1nnh/Problem-Solving/tree/master/Programmers)
 - [알고리즘 v2(2021년 12월부터)](https://maprk.notion.site/178d5a362613437d82a5d8476bc62b7b)
 
-## algorithm QnA 
+## Algorithm QnA 
 
 ### Q. 시간복잡도/공간복잡도
 A. 복잡도는 알고리즘의 성능을 나타내는 척도다. 동일한 기능을 수행하는 알고리즘이 있다면 일반적으로 복잡도가 낮을수록 좋은 알고리즘이다.
